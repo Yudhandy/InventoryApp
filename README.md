@@ -1,4 +1,4 @@
-# aplikasi_inventarisasi
+# InventoryApp
 
 A new Flutter project.
 
